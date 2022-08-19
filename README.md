@@ -2,6 +2,10 @@
 
 [Happiverse](https://behappi.surge.sh/) is made up of two smart contracts, Smile.sol and Happi.sol which are deployed on Rinkeby for now. You can mint some smile, add them to a Happi and watch them get jumpy on chain due to a deterministic randomness used in computing its transition.
 
+![Homepage](https://github.com/EngrGord/Happiverse/blob/main/file/Screenshot 2022-08-19 at 09-27-06 Ethereum App.png)
+
+![Smile](https://github.com/EngrGord/Happiverse/blob/main/file/Screenshot 2022-08-18 at 10-56-48 Ethereum App.png)
+
 This build is a composition of the [composable-svg-nft]( https://github.com/scaffold-eth/scaffold-eth/tree/composable-svg-nft), and [oe-loogie-tank](https://github.com/scaffold-eth/scaffold-eth/tree/oe-loogie-tank-prod) branches of schaffold-eth.
 
 
@@ -10,6 +14,8 @@ Fork this buidl and thinker around with it locally make a PR or build something 
 
 
 Any nft that implements the `public` render function can be rendered into the Happiverse, this is possible because Happi.sol inherits the `IERCReciever` which allow this nft to recieve and render other nfts that implement the `public` render fuction.
+
+![Happiverse](https://github.com/EngrGord/Happiverse/blob/main/file/SScreenshot 2022-08-19 at 14-58-44 Ethereum App.png)
 
 
 ```
