@@ -1,6 +1,6 @@
 # Happiverse 🏗 Scaffold-ETH
 
-[Happiverse](https://behappi.surge.sh/) is made up of two smart contracts, Smile.sol and Happi.sol which are deployed on Rinkeby for now. You can mint smiles, add them to a Happi and watch them get jumpy on chain due to a deterministic randomness used in computing its transition.
+[Happiverse](https://behappi.surge.sh/) is made up of two smart contracts, Smile.sol and Happi.sol which are deployed on Rinkeby for now. You can mint smiles, add them to a Happi and watch them get jumpy on chain due to deterministic randomness used in computing its transition.
 
 ![Homepage](https://github.com/EngrGord/Happiverse/blob/master/assets/Screenshot%202022-08-19%20at%2009-27-06%20Ethereum%20App.png)
 
