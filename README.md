@@ -15,7 +15,7 @@ Fork this buidl and thinker around with it locally make a PR or build something 
 
 Any nft that implements the `public` render function can be rendered into the Happiverse, this is possible because Happi.sol inherits the `IERCReciever` which allow this nft to recieve and render other nfts that implement the `public` render fuction.
 
-![Happiverse](https://github.com/EngrGord/Happiverse/blob/main/file/SScreenshot 2022-08-19 at 14-58-44 Ethereum App.png)
+![Happiverse](https://github.com/EngrGord/Happiverse/blob/master/assets/Screenshot%202022-08-19%20at%2014-58-44%20Ethereum%20App.png)
 
 
 ```
