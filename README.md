@@ -6,7 +6,7 @@
 
 ![Smile](https://github.com/EngrGord/Happiverse/blob/master/assets/Screenshot%202022-08-18%20at%2010-56-48%20Ethereum%20App.png)
 
-This build is a composition of the [composable-svg-nft]( https://github.com/scaffold-eth/scaffold-eth/tree/composable-svg-nft), and [oe-loogie-tank](https://github.com/scaffold-eth/scaffold-eth/tree/oe-loogie-tank-prod) branches of schaffold-eth.
+The project is a composition of the [composable-svg-nft]( https://github.com/scaffold-eth/scaffold-eth/tree/composable-svg-nft), and [oe-loogie-tank](https://github.com/scaffold-eth/scaffold-eth/tree/oe-loogie-tank-prod) branches of schaffold-eth.
 
 
 This Scaffold-eth & Chakra UI buidl is based on the idea of on-chain composable NFTs, where on-chain nfts hold other nfts, the possibilties of this concept is endless.
