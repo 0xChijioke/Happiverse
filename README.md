@@ -2,7 +2,7 @@
 
 [Happiverse](https://behappi.surge.sh/) is made up of two smart contracts, Smile.sol and Happi.sol which are deployed on Rinkeby for now. You can mint some smile, add them to a Happi and watch them get jumpy on chain due to a deterministic randomness used in computing its transition.
 
-![Homepage](https://github.com/EngrGord/Happiverse/blob/main/file/Screenshot 2022-08-19 at 09-27-06 Ethereum App.png)
+![Homepage](https://github.com/EngrGord/Happiverse/blob/master/assets/Screenshot%202022-08-19%20at%2009-27-06%20Ethereum%20App.png)
 
 ![Smile](https://github.com/EngrGord/Happiverse/blob/master/assets/Screenshot%202022-08-18%20at%2010-56-48%20Ethereum%20App.png)
 
