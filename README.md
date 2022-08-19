@@ -4,7 +4,7 @@
 
 ![Homepage](https://github.com/EngrGord/Happiverse/blob/main/file/Screenshot 2022-08-19 at 09-27-06 Ethereum App.png)
 
-![Smile](https://github.com/EngrGord/Happiverse/blob/main/file/Screenshot 2022-08-18 at 10-56-48 Ethereum App.png)
+![Smile](https://github.com/EngrGord/Happiverse/blob/master/assets/Screenshot%202022-08-18%20at%2010-56-48%20Ethereum%20App.png)
 
 This build is a composition of the [composable-svg-nft]( https://github.com/scaffold-eth/scaffold-eth/tree/composable-svg-nft), and [oe-loogie-tank](https://github.com/scaffold-eth/scaffold-eth/tree/oe-loogie-tank-prod) branches of schaffold-eth.
 
