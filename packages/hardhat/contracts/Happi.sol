@@ -41,7 +41,7 @@ contract Happi is ERC721Enumerable, IERC721Receiver {
   }
 
   function returnAllSmiles(uint256 _id) external {
-    require(smileById[_id].length > 0, "No Joy!");
+    require(smileById[_id].length < 0, "No Joy!");
     require(msg.sender == ownerOf(_id), "Only a happy person can return smiles");
     for (uint256 i = 0; i < smileById[_id].length; i++) {
       smile.transferFrom(address(this), ownerOf(_id), smileById[_id][i]);
